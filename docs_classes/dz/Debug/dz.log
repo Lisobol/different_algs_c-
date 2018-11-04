@@ -1,0 +1,17 @@
+﻿Сборка начата 27.05.2016 2:46:32.
+     1>Проект "C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\dz\dz\dz.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\dz.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt dz.cpp
+         dz.cpp
+     1>c:\users\елизавета\documents\visual studio 2015\projects\dz\dz\dz.cpp(140): warning C4305: аргумент: усечение из "int" к "bool"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\dz\Debug\dz.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\dz\Debug\dz.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\dz\Debug\dz.lib" /MACHINE:X86 Debug\dz.res
+         Debug\dz.obj
+         Debug\DZLIB.obj
+         Debug\stdafx.obj
+         dz.vcxproj -> C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\dz\Debug\dz.exe
+     1>Сборка проекта "C:\Users\Елизавета\Documents\Visual Studio 2015\Projects\dz\dz\dz.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.45
